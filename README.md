@@ -1,6 +1,7 @@
 # The Super Quiz
 
-> A Vue.js project
+> A Vue.js project demonstrating animations and transitions.
+
 
 ## Build Setup
 
